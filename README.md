@@ -72,19 +72,6 @@ Over time, the way we store and process data has evolved:
 
 ---
 
-### 📚 My Understanding
-
-- Rule-based systems are limited to simple, well-defined problems  
-- Real-world problems are complex and require pattern recognition  
-- The evolution of data systems enabled the rise of Machine Learning  
-- ML shifts the focus from **rules → data-driven learning**
-
----
-
-<!-- 📌 Add your handwritten notes image here later -->
-
-<!--
 <p align="center">
   <img src=""C:\Users\HP\Pictures\Screenshots\Screenshot (292).png"" width="500"/>
 </p>
--->
