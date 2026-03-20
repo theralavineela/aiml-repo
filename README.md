@@ -71,5 +71,5 @@ Over time, the way we store and process data has evolved:
 > Machine Learning allows the computer to *learn what to do from data*.
 
 ---
-<img width="1279" height="602" alt="ml" src="https://github.com/user-attachments/assets/ddf57aee-8b64-4869-af2e-97d74853991f" />
+<img width="500" height="200" alt="ml" src="https://github.com/user-attachments/assets/ddf57aee-8b64-4869-af2e-97d74853991f" />
 
