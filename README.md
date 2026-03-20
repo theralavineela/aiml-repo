@@ -73,3 +73,108 @@ Over time, the way we store and process data has evolved:
 ---
 <img width="500" height="200" alt="ml" src="https://github.com/user-attachments/assets/ddf57aee-8b64-4869-af2e-97d74853991f" />
 
+##  Types of Machine Learning
+
+Machine Learning can be broadly divided into three main categories:
+
+- Supervised Learning  
+- Unsupervised Learning  
+- Reinforcement Learning  
+
+
+<img width="500" height="200" alt="types_of_ml" src="https://github.com/user-attachments/assets/53ad54ab-d417-4aec-ab89-a1263360d000" />
+
+###  1. Supervised Learning
+
+In supervised learning:
+- The model is trained using **input data along with correct output (labels)**  
+- It learns the mapping between input → output  
+
+####  Types of Supervised Learning
+
+**1. Classification**
+- Output is **categorical**
+- Example: spam vs not spam, cat vs dog  
+- Model learns from labeled examples  
+
+**2. Regression**
+- Output is **continuous (numerical values)**  
+- Example:  
+  - Predicting salary  
+  - Hiring engineers based on features like:
+    - age  
+    - experience  
+
+---
+
+###  2. Unsupervised Learning
+
+In unsupervised learning:
+- No labeled output is provided  
+- The model tries to find **hidden patterns in data**
+
+####  Types:
+
+**1. Clustering**
+- Groups similar data points together  
+- Example: customer segmentation  
+
+**2. Association**
+- Finds relationships between variables  
+- Example: “People who buy X also buy Y”  
+
+---
+
+###  3. Reinforcement Learning
+
+- Based on **trial and error learning**  
+- Uses **real-time data and feedback**  
+- The model improves by:
+  - rewards ✅  
+  - penalties ❌  
+
+👉 Example:
+- Game playing AI  
+- Self-learning systems  
+
+---
+
+🤖 Common Machine Learning Models
+
+Machine Learning algorithms are often referred to as **models**.
+
+Some commonly used models include:
+- Neural Networks  
+- Decision Trees  
+- Support Vector Machines (SVM)  
+- K-Nearest Neighbors (KNN)  
+
+---
+
+##  Traditional Algorithms vs Machine Learning
+
+###  Traditional Algorithms
+- A fixed set of instructions  
+- Explicitly programmed by humans  
+
+👉 Example:
+- Step-by-step recipe (like cooking instructions)
+
+---
+
+ Machine Learning Algorithms
+- Given:
+  - Input data  
+  - Expected (ideal) output  
+- The system **learns the rules automatically**
+
+👉 Example:
+- Instead of writing a recipe, the system learns how to cook by observing examples  
+
+---
+
+##  Key Insight
+
+> Traditional programming = “Rules + Data → Output”  
+> Machine Learning = “Data + Output → Rules”
+
