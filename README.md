@@ -1,8 +1,8 @@
 # aiml-repo
 This repository consists of practice notebooks about machine learning and my understanding about the core ml concepts.
-## 🧠 Why Machine Learning?
+## Why Machine Learning?
 
-### 📌 From Rule-Based Logic to Learning Systems
+### From Rule-Based Logic to Learning Systems
 
 In traditional programming, we define rules explicitly.
 
@@ -18,7 +18,7 @@ However, this approach fails when dealing with complex real-world problems.
 
 ---
 
-### 🐱 Limitation of Rule-Based Systems
+### Limitation of Rule-Based Systems
 
 Consider problems like:
 - Identifying a **cat in an image**
@@ -37,26 +37,26 @@ Instead of writing rules, we:
 
 ---
 
-### 📊 Evolution of Data and Systems
+###  Evolution of Data and Systems
 
 Over time, the way we store and process data has evolved:
 
-#### 1. 📄 Early Data Storage
+#### 1.  Early Data Storage
 - Stored in spreadsheets or CSV files  
 - Simple and easy to manage  
 - Limited scalability  
 
-#### 2. 🗄️ Structured Data (Relational Databases)
+#### 2.  Structured Data (Relational Databases)
 - Use of SQL databases  
 - Data stored in tables (rows and columns)  
 - Well-organized and structured  
 
-#### 3. 🌐 Unstructured & Big Data
+#### 3.  Unstructured & Big Data
 - NoSQL databases like MongoDB  
 - Handles large-scale and unstructured data  
 - Examples: images, text, videos  
 
-#### 4. 🤖 Machine Learning Era
+#### 4.  Machine Learning Era
 - Instead of just storing data, we **learn from it**  
 - Systems can:
   - Recognize patterns  
@@ -65,13 +65,11 @@ Over time, the way we store and process data has evolved:
 
 ---
 
-### 🚀 Key Insight
+###  Key Insight
 
 > Traditional programming tells the computer *what to do*.  
 > Machine Learning allows the computer to *learn what to do from data*.
 
 ---
+<img width="1279" height="602" alt="ml" src="https://github.com/user-attachments/assets/ddf57aee-8b64-4869-af2e-97d74853991f" />
 
-<p align="center">
-  <img src=""C:\Users\HP\Pictures\Screenshots\Screenshot (292).png"" width="500"/>
-</p>
