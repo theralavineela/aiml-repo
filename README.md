@@ -1,4 +1,4 @@
-# aiml-repo
+# Aiml-repo
 This repository consists of practice notebooks about machine learning and my understanding about the core ml concepts.
 ## Why Machine Learning?
 
@@ -177,4 +177,55 @@ Some commonly used models include:
 
 > Traditional programming = “Rules + Data → Output”  
 > Machine Learning = “Data + Output → Rules”
+
+## 📊 Data & Machine Learning Workflow
+
+---
+##  Types of Data
+
+###  Structured Data
+- Organized in rows and columns  
+- Examples: CSV files, Excel, SQL databases  
+
+###  Unstructured Data
+- No fixed format  
+- Examples: images, audio, text  
+
+### Streaming Data
+- Continuously changing data  
+- Example: live data feeds  
+
+---
+
+##  Evaluation Metrics
+
+### Classification:
+- Accuracy  
+- Precision  
+- Recall  
+
+### Regression:
+- MAE  
+- MSE  
+- RMSE  
+
+---
+
+## Machine Learning Workflow
+
+1. **Problem Definition**  
+2. **Data Collection**  
+3. **Evaluation Criteria**  
+4. **Feature Selection**  
+5. **Modelling**  
+6. **Experimentation**
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/cc2e10f1-68be-445c-befc-12b9293e6909" />
+##  Basic Tools
+- Jupyter Notebook  
+- Pandas  
+- Matplotlib  
+- Scikit-learn  
+##  Key Insight
+
+> Machine Learning is not needed for every problem.
 
