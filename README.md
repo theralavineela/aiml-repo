@@ -205,9 +205,9 @@ Some commonly used models include:
 - Recall  
 
 ### Regression:
-- MAE  
-- MSE  
-- RMSE  
+- MAE (Mean Absolute Error)  
+- MSE (Mean Squared Error)  
+- RMSE (Root Mean Squared Error)  
 
 ---
 
@@ -219,12 +219,16 @@ Some commonly used models include:
 4. **Feature Selection**  
 5. **Modelling**  
 6. **Experimentation**
+
 <img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/cc2e10f1-68be-445c-befc-12b9293e6909" />
+
+
 ##  Basic Tools
 - Jupyter Notebook  
 - Pandas  
 - Matplotlib  
 - Scikit-learn  
+
 ##  Key Insight
 
 > Machine Learning is not needed for every problem.
